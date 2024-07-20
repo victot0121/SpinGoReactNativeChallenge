@@ -54,11 +54,15 @@ The Figma design for the task can be found [here](https://www.figma.com/design/4
 
 ### Screen 1
 
-![Screen 1](path-to-your-screenshot-1)
+![Screen 1](1.jpg)
 
 ### Screen 2
 
-![Screen 2](path-to-your-screenshot-2)
+![Screen 2](2.jpg)
+
+### Screen 3
+
+![Screen 2](3.jpg)
 
 ## How to Run the Project
 
